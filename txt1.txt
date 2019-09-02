@@ -3,3 +3,5 @@ Colours:
  - red
  - blue
  - green
+ - white
+ - ghostwhite
